@@ -59,14 +59,17 @@ pe$taxa = (pe$numero_obitos / pe$numero_nascimentos)*1000
 #===============================#
 
 # criar lista dos municipios
-lista = levels(as.factor(datana$code_muni))
+lista = levels(as.factor(pe$code_muni))
 
-muni = pe[pe$Município.x == 'Recife',]
+muni = pe[pe$code_muni == i,]
 
 # automatizar geracao de base de dados
+key = 0
 for (i in lista)  {
   
-  # found year
+  # order data by year
+  
+  # found year [TRATAR ANOS]
   year = 2007
   
   # selec muni
@@ -74,13 +77,20 @@ for (i in lista)  {
   # length of vector
   dime = dim(muni)[1]
   # find index of year
-  yi = match(year, muni$ano) - 1
+  yi = match(year, muni$ano)
   
   # range tempo
-  tempo = 1:dime
+  muni$tempo = 1:dime
   # range nivel
-  nivel = c(rep(0, each=yi), rep(1, each=(dime-yi) ))
+  muni$nivel = c(rep(0, each=yi-1), rep(1, each=(dime-yi+1) ))
+  # range tendencia
+  muni$tend = c(rep(0, each=yi-1), (1:(dime-yi+1)) )
   
+  if (key == 0){
+    dataset = muni
+  } else{
+    dataset = rbind(dataset, muni)  
+  }
   
 }
 
