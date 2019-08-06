@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565090543273.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "20BC70DB",
+    "lastKnownWriteTime" : 1565090538,
+    "last_content_update" : 1565090543273,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "76161BA9",
+        "caption" : "nasc",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=nasc&cache_key=76161BA9",
+        "displayedObservations" : 123112,
+        "environment" : "",
+        "object" : "nasc",
+        "preview" : 0,
+        "totalObservations" : 123112,
+        "variables" : 4
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

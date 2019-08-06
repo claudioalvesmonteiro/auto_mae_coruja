@@ -1,6 +1,3 @@
- Óbitos infantis - Brasil
-Óbitos p/Residênc por Município e Ano do Óbito
-Período:1996-2017
 "Município";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"Total"
 "110001 Alta Floresta D'Oeste";12;14;17;36;10;12;12;7;5;12;8;4;8;4;10;6;5;7;2;7;5;5;208
 "110037 Alto Alegre dos Parecis";-;2;5;2;4;6;1;1;5;2;1;5;2;6;2;6;2;2;5;1;-;2;62
@@ -5594,12 +5591,3 @@ Período:1996-2017
 "522230 Vila Propício";-;-;-;-;1;1;1;1;2;1;1;-;-;-;-;1;-;-;-;1;-;3;13
 "520000 Município ignorado - GO";32;82;165;29;14;1;1;3;1;-;2;1;3;4;-;1;1;1;-;2;1;1;345
 "530010 Brasília";822;827;796;784;691;712;625;613;636;626;578;489;525;522;559;499;506;567;510;488;447;494;13316
-"Total";75024;71400;71690;69345;68199;61943;58916;57540;54183;51544;48332;45370;44100;42642;39870;39716;39123;38966;38432;37501;36350;36223;1126409
- Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
- Nota:
- 
- Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
- utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
- "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
- No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
- 

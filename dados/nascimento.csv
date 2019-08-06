@@ -1,6 +1,3 @@
- Nascidos vivos - Brasil
-Nascim p/resid.mãe por Município e Ano do nascimento
-Período:1996-2017
 "Município";"1996";"1997";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"Total"
 "110001 Alta Floresta D'Oeste";778;587;591;689;617;721;586;578;630;553;476;282;406;389;452;398;386;382;341;373;326;354;10895
 "110037 Alto Alegre dos Parecis";-;150;205;164;231;179;137;141;134;183;196;177;160;202;204;199;189;163;172;149;168;172;3675
@@ -5598,16 +5595,4 @@ Período:1996-2017
 "522230 Vila Propício";-;31;48;24;51;42;61;58;62;54;55;67;55;48;57;62;61;66;58;68;48;66;1142
 "520000 Município ignorado - GO";282;392;375;133;19;23;16;16;30;20;17;6;15;14;9;6;9;11;11;5;10;5;1424
 "530010 Brasília";46767;46855;48418;49349;47991;46891;45799;46097;45593;45917;45152;44098;44173;43932;44251;43465;43497;44530;44721;46122;43340;44568;1001526
-"Total";2945425;3026658;3148037;3256433;3206761;3115474;3059402;3038251;3026548;3035096;2944928;2891328;2934828;2881581;2861868;2913160;2905789;2904027;2979259;3017668;2857800;2923535;65873856
- Fonte: MS/SVS/DASIS - Sistema de Informações sobre Nascidos Vivos - SINASC
- Nota:
- 
- Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
- utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
- "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
- 
- * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
- pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
- arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
- Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
- 
+
